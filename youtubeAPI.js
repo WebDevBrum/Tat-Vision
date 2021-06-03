@@ -22,7 +22,11 @@ const searchTitles = async (e) => {
     console.log(data);
     //Pagination
     console.log(data.nextPageToken);
-    console.log(data.items);
+    //video id
+    data.items.forEach(video => {
+      console.log(video.snippet.resourceId.videoId)
+    });
+    // console.log(data.items[0].snippet.resourceId.videoId);
   } catch (err) {
     console.error(err);
   }
@@ -33,4 +37,6 @@ const button = document.querySelector(".button");
 
 button.addEventListener('click', searchTitles);
 
+//original
+{/* <div class="span-row-2"><iframe class="gallery-item" src="https://www.youtube.com/embed/hTdbgse6vmY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div> */}
 

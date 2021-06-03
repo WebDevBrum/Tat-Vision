@@ -6,7 +6,7 @@ let videoGallery = [
   {
     videos: `<div class="grid">
         <div class="span-row-2"><iframe class="gallery-item" src="https://www.youtube.com/embed/hTdbgse6vmY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-        <div><iframe class="gallery-item" src="https://www.youtube.com/embed/-xOZBDVtnQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        <div><iframe class="gallery-item" src="https://www.youtube.com/embed/-xOZBDVtnQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div> 
         <div class="span-row-2"><iframe class="gallery-item" src="https://www.youtube.com/embed/bda3CRfBco0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
         <div class="span-row-3"><iframe class="gallery-item" src="https://www.youtube.com/embed/nz5hqRFiC5g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
         <div><iframe class="gallery-item" src="https://www.youtube.com/embed/VM38MhKMsow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
