@@ -96,7 +96,7 @@ body {
 
 table {
   width: 500px;
-  max-width: 100%;
+  
   margin-top: -20px;
 }
 
@@ -284,5 +284,9 @@ iframe,
 		
 		max-width: 70%;
 		margin: 0 auto;
+	  }
+	  
+	  table {
+	   max-width: 100%;
 	  }
 }
