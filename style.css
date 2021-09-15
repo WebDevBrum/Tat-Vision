@@ -281,7 +281,7 @@ iframe,
   and (-webkit-min-device-pixel-ratio: 1) { 
   
   body {
-    max-width: 80%;
+    max-width: 8%;
     margin: auto;
   }
 }
