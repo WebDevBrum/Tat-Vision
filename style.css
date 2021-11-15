@@ -299,5 +299,8 @@ iframe,
    
 }
 
+ .center {
+  transform: scale(0.7);
+  }
 	    
 }
