@@ -294,7 +294,7 @@ iframe,
   anda (max-device-width: 2000px) 
    {
 	  body {
-   transform: scale(0.8);
+   transform: scale(0.7);
    transform-origin: 0 0;
    // add prefixed versions too.
 }
