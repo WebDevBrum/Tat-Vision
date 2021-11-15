@@ -291,12 +291,13 @@ iframe,
 
 @media screen 
   and (min-device-width: 768px) 
-  anda (max-device-width: 2000px) 
+  and (max-device-width: 2000px) 
    {
 	  body {
    transform: scale(0.7);
    transform-origin: 0 0;
    
 }
+
 	    
 }
