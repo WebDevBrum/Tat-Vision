@@ -220,6 +220,19 @@ iframe,
   /*change according to your need*/
 }
 
+
+.player {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.video_box {
+ width: 80%;
+ height: 350px;
+
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
